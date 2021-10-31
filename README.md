@@ -11,3 +11,7 @@
 4. [Obter o endereço do diretório atual no terminal](./obter-o-endereco-do-diretorio-atual-no-terminal/notes.md)
 
 5. [Alterar o diretório corrente no terminal](./alterar-o-diretorio-corrente-no-terminal/notes.md)
+
+6. [Exibir o conteúdo de um diretório no terminal]
+
+7. [Exibir mensagens na tela do terminal](./exibir-mensagens-na-tela-do-terminal/notes.md)
