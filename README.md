@@ -19,3 +19,5 @@
 8. [Alterar permissões de arquivos no linux](./alterar-permissoes-de-arquivos-no-linux/notes.md)
 
 9. [Basename e dirname](./basename-e-dirname/notes.md)
+
+10. [Exibir o histórico de comandos](./exibir-o-historico-de-comandos/notes.md)
