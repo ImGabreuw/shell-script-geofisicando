@@ -15,3 +15,7 @@
 6. [Exibir o conteúdo de um diretório no terminal]
 
 7. [Exibir mensagens na tela do terminal](./exibir-mensagens-na-tela-do-terminal/notes.md)
+
+8. [Alterar permissões de arquivos no linux](./alterar-permissoes-de-arquivos-no-linux/notes.md)
+
+9. [Basename e dirname](./basename-e-dirname/notes.md)
