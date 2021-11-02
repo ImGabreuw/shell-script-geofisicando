@@ -23,3 +23,5 @@
 10. [Exibir o histórico de comandos](./exibir-o-historico-de-comandos/notes.md)
 
 11. [Criar diretórios e arquivos temporários](./criar-diretorios-e-arquivos-temporarios/notes.md)
+
+12. [Árvore de diretórios no linux e revisão dos comandos](./arvore-de-diretorios-no-linux-e-revisao-dos-comandos/notes.md)
