@@ -21,3 +21,5 @@
 9. [Basename e dirname](./basename-e-dirname/notes.md)
 
 10. [Exibir o histórico de comandos](./exibir-o-historico-de-comandos/notes.md)
+
+11. [Criar diretórios e arquivos temporários](./criar-diretorios-e-arquivos-temporarios/notes.md)
