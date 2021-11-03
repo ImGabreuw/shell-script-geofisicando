@@ -25,3 +25,5 @@
 11. [Criar diretórios e arquivos temporários](./criar-diretorios-e-arquivos-temporarios/notes.md)
 
 12. [Árvore de diretórios no linux e revisão dos comandos](./arvore-de-diretorios-no-linux-e-revisao-dos-comandos/notes.md)
+
+13. [Diretórios ponto e ponto-ponto no Linux](./diretorios-ponto-e-ponto-ponto-no-linux/notes.md)
