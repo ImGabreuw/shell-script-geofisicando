@@ -31,3 +31,5 @@
 14. [Criar arquivos em branco e arquivos ocultos](./criar-arquivos-em-branco-e-arquivos-ocultos/notes.md)
 
 15. [Mover arquivos e diretórios pela linha de comandos](./mover-arquivos-e-diretorios-pela-linha-de-comando/notes.md)
+
+16. [Copiar arquivos e diretórios no Linux]()
