@@ -27,3 +27,7 @@
 12. [Árvore de diretórios no linux e revisão dos comandos](./arvore-de-diretorios-no-linux-e-revisao-dos-comandos/notes.md)
 
 13. [Diretórios ponto e ponto-ponto no Linux](./diretorios-ponto-e-ponto-ponto-no-linux/notes.md)
+
+14. [Criar arquivos em branco e arquivos ocultos](./criar-arquivos-em-branco-e-arquivos-ocultos/notes.md)
+
+15. [Mover arquivos e diretórios pela linha de comandos](./mover-arquivos-e-diretorios-pela-linha-de-comando/notes.md)
