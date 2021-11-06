@@ -32,4 +32,6 @@
 
 15. [Mover arquivos e diretórios pela linha de comandos](./mover-arquivos-e-diretorios-pela-linha-de-comando/notes.md)
 
-16. [Copiar arquivos e diretórios no Linux]()
+16. [Copiar arquivos e diretórios no Linux](./copiar-arquivos-e-diretorios-no-linux/notes.md)
+
+17. [Concatenar e exibir o conteúdo de arquivos](./concatenar-e-exibir-o-conteudo-de-arquivos/notes.md)
