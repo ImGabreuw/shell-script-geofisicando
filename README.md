@@ -35,3 +35,5 @@
 16. [Copiar arquivos e diretórios no Linux](./copiar-arquivos-e-diretorios-no-linux/notes.md)
 
 17. [Concatenar e exibir o conteúdo de arquivos](./concatenar-e-exibir-o-conteudo-de-arquivos/notes.md)
+
+18. [Remover arquivos e diretórios](./remover-arquivos-e-diretorios/notes.md)
