@@ -37,3 +37,5 @@
 17. [Concatenar e exibir o conteúdo de arquivos](./concatenar-e-exibir-o-conteudo-de-arquivos/notes.md)
 
 18. [Remover arquivos e diretórios](./remover-arquivos-e-diretorios/notes.md)
+
+19. [O que é um Pipe? Como redirecionar saídas dos comandos?](o-que-e-um-pipe-e-como-redirecionar-saidas-dos-comandos/notes.md)
