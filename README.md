@@ -38,4 +38,6 @@
 
 18. [Remover arquivos e diretórios](./remover-arquivos-e-diretorios/notes.md)
 
-19. [O que é um Pipe? Como redirecionar saídas dos comandos?](o-que-e-um-pipe-e-como-redirecionar-saidas-dos-comandos/notes.md)
+19. [O que é um Pipe? Como redirecionar saídas dos comandos?](./o-que-e-um-pipe-e-como-redirecionar-saidas-dos-comandos/notes.md)
+
+20. [Filtrar saídas do comando cat e arquivos csv](./filtrar-saídas-do-comando-cat-e-arquivos-csv/notes.md)
